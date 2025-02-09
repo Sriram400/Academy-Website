@@ -5,7 +5,7 @@ const path = require('path');
 const multer = require('multer');
 const jwt = require("jsonwebtoken")
 const bcrypt = require("bcrypt");
-const secret = 'secret-muthu';
+const secret = 'secret-sriram';
 
 
 const app = express();
